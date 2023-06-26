@@ -1,0 +1,2 @@
+# tugasolinaplugin
+plugin-wordpress
