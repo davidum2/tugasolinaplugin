@@ -10,16 +10,7 @@ namespace TuGasolinaEnMexico;
 
 include(plugin_dir_path(__FILE__) . 'Geolocation.php');
 
-// Clase para manejar la geolocalización
-class Geolocation {
-    public function get_user_location() {
-        // Tu código para obtener la ubicación del usuario aquí
-    }
 
-    public function convert_to_geohash($lat, $lon) {
-        // Tu código para convertir la ubicación a geohash aquí
-    }
-}
 
 // Clase para manejar la base de datos
 class Database {
